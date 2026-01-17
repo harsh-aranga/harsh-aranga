@@ -1,16 +1,22 @@
-## Hi there 👋
+# Harshavardhanan Aranga
 
-<!--
-**harsh-aranga/harsh-aranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Distributed Systems Architect** | 15 years scaling telecom infrastructure
 
-Here are some ideas to get you started:
+## Expertise
+- **Languages:** Java, Python
+- **Frameworks:** Spring Boot, Kafka, Redis
+- **Specialization:** Distributed systems, microservices, event-driven architecture, performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+Production-grade implementations of enterprise patterns:
+- Resilience patterns (circuit breakers, retries, bulkheads)
+- Distributed transactions (saga, outbox pattern)
+- Event-driven architectures (Kafka, CDC)
+- High-performance concurrent systems
+
+## Background
+15 years building telecom infrastructure at Verizon, Rogers, and BT. Now helping startups and scale-ups with system architecture and performance optimization.
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/harshavardhanan2990/)
+- [Website](https://www.pragmaticbyharsh.com/)
