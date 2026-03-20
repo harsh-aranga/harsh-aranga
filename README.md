@@ -1,6 +1,6 @@
 # Harshavardhanan Aranga
 
-**Distributed Systems Architect | AI Engineer** | 15 years building high-scale backend systems
+**AI Engineer | Principal Engineer** | 15 years building high-scale backend systems
 
 ## Distributed Systems
 15 years at Verizon, Rogers, and BT building systems that handle millions of requests and don't fall over.
