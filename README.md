@@ -42,4 +42,3 @@ AI systems are distributed systems. They need the same things:
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/harshavardhanan2990/)
-- [Website](https://www.pragmaticbyharsh.com/)
