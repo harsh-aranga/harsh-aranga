@@ -1,4 +1,4 @@
-# Harshavardhanan Aranga
+# Harshavardhanan
 
 **AI Engineer | Staff Engineer** | 15 years of distributed systems → now production AI
 
