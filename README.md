@@ -1,6 +1,12 @@
 # Harshavardhanan
-
 **AI Engineer | Staff Engineer** | 15 years of distributed systems → now production AI
+
+## Recent Research
+
+**ONTO: A Token-Efficient Columnar Notation for LLM Input Optimization**  
+arXiv:2604.17512 | [Paper](https://arxiv.org/abs/2604.17512) · [Code](https://github.com/harsh-aranga/onto) · [DOI](https://doi.org/10.5281/zenodo.19650416)
+
+A columnar serialization format that reduces LLM input tokens by 46-51% versus JSON on operational data (logs, metrics, telemetry). Schema-once design with measurable latency improvements on Qwen2.5-7B and no comprehension degradation on GPT-class models.
 
 ## Distributed Systems
 15 years at Verizon, Rogers, and BT building systems that handle millions of requests and don't fall over.
